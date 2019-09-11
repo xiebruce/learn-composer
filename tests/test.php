@@ -7,7 +7,8 @@
 	 */
 	
 	// 引入autoload.php文件，用于自动加载vendor中的库
-	require '../vendor/autoload.php';
+	// require '../vendor/autoload.php';
+	require '../../../../vendor/autoload.php';
 	
 	// use HelloWorld类
 	use pack\HelloWorld;
